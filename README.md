@@ -40,16 +40,16 @@ Welcome to my digital workspace. I specialize in designing and deploying scalabl
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammaralsalahi&bg_color=171717&color=21f1a8&line=004741&point=f0ede4&area=true&hide_border=true&theme=react-dark" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammaralsalahi&bg_color=171717&color=21f1a8&line=004741&point=f0ede4&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <table border="0" cellpadding="0" cellspacing="0" align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ammaralsalahi&show_icons=true&hide_border=true&theme=dark&bg_color=171717&title_color=21f1a8&icon_color=21f1a8&text_color=f0ede4&ring_color=004741" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ammaralsalahi&show_icons=true&hide_border=true&bg_color=171717&title_color=21f1a8&icon_color=21f1a8&text_color=f0ede4&ring_color=004741" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralsalahi&layout=compact&hide_border=true&theme=dark&bg_color=171717&title_color=21f1a8&icon_color=21f1a8&text_color=f0ede4" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralsalahi&layout=compact&hide_border=true&bg_color=171717&title_color=21f1a8&icon_color=21f1a8&text_color=f0ede4" alt="Top Languages" />
     </td>
   </tr>
 </table>
