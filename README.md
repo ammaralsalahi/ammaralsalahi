@@ -1,11 +1,11 @@
 <div align="center">
   <h1>👨‍💻 Software Engineer & System Architect</h1>
   
-  <img src="https://komarev.com/ghpvc/?username=ammaralsalahi&color=21F1A8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ammaralsalahi&color=21F1A8&style=flat-square&label=PROFILE+VIEWS&v=1" alt="Profile Views" />
   <br><br>
 
   <a href="https://github.com/ammaralsalahi">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=21F1A8&background=17171700&center=true&vCenter=true&width=800&lines=Cross-Platform+Mobile+Development;Full-Stack+Web+Ecosystems;Architecting+Digital+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=21F1A8&background=17171700&center=true&vCenter=true&width=800&lines=Cross-Platform+Mobile+Development;Full-Stack+Web+Ecosystems;Architecting+Digital+Solutions&v=1" alt="Typing SVG" />
   </a>
 
   <p>Welcome to my digital workspace. I specialize in designing and deploying scalable mobile applications and robust full-stack web ecosystems. Driven by clean architecture, seamless state management, and optimized backend APIs.</p>
@@ -48,14 +48,14 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammaralsalahi&bg_color=171717&color=21f1a8&line=004741&point=f0ede4&area=true&hide_border=true&theme=react-dark" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammaralsalahi&bg_color=171717&color=21f1a8&line=004741&point=f0ede4&area=true&hide_border=true&theme=react-dark&v=1" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammaralsalahi&show_icons=true&hide_border=true&theme=dark&bg_color=171717&title_color=21f1a8&icon_color=21f1a8&text_color=f0ede4&ring_color=004741" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammaralsalahi&theme=dark&background=171717&ring=21f1a8&fire=21f1a8&currStreakLabel=21f1a8&sideNums=f0ede4&sideLabels=f0ede4&dates=f0ede4&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammaralsalahi&show_icons=true&hide_border=true&theme=dark&bg_color=171717&title_color=21f1a8&icon_color=21f1a8&text_color=f0ede4&ring_color=004741&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammaralsalahi&theme=dark&background=171717&ring=21f1a8&fire=21f1a8&currStreakLabel=21f1a8&sideNums=f0ede4&sideLabels=f0ede4&dates=f0ede4&hide_border=true&v=1" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralsalahi&layout=compact&hide_border=true&theme=dark&bg_color=171717&title_color=21f1a8&icon_color=21f1a8&text_color=f0ede4" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaralsalahi&layout=compact&hide_border=true&theme=dark&bg_color=171717&title_color=21f1a8&icon_color=21f1a8&text_color=f0ede4&v=1" alt="Top Languages" width="60%" />
 </p>
