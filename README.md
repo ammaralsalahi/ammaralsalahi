@@ -22,7 +22,7 @@
 
 ---
 
-## 💫 About Me
+## -- About Me
 
 I'm an IT graduate and Full-Stack Mobile Developer passionate about designing and building modern, scalable, and user-friendly digital products.
 
@@ -30,16 +30,16 @@ I specialize in cross-platform mobile development using **Flutter and Dart**, al
 
 I enjoy working across the entire development lifecycle, from building intuitive mobile interfaces to designing backend systems, databases, and RESTful APIs.
 
-- 📱 Developing cross-platform mobile applications with Flutter.
-- ⚙️ Building backend systems and RESTful APIs with Laravel.
-- 🗄️ Working with MySQL, Firebase, and Supabase.
-- 🏗️ Writing clean, maintainable, and scalable code.
-- 🌍 Building applications with practical, real-world use cases.
-- 🚀 Continuously learning and improving my development skills.
+-  Developing cross-platform mobile applications with Flutter.
+-  Building backend systems and RESTful APIs with Laravel.
+-  Working with MySQL, Firebase, and Supabase.
+-  Writing clean, maintainable, and scalable code.
+-  Building applications with practical, real-world use cases.
+-  Continuously learning and improving my development skills.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 📱 Mobile Development
 
@@ -47,13 +47,13 @@ I enjoy working across the entire development lifecycle, from building intuitive
   <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart"/>
 </p>
 
-### ⚙️ Backend & Database
+### -- Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,supabase" alt="Backend and Database Technologies"/>
 </p>
 
-### 🔧 Tools & Technologies
+### -- Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,html,css,js" alt="Development Tools"/>
@@ -61,23 +61,23 @@ I enjoy working across the entire development lifecycle, from building intuitive
 
 ---
 
-## 🚀 Featured Projects
+## - Featured Projects
 
-### 📖 1. Sakina — Islamic Lifestyle & Dhikr App
+### - 1. Sakina — Islamic Lifestyle & Dhikr App
 
 A modern Islamic mobile application designed to help users maintain their daily worship and stay connected with their spiritual routines.
 
 **Built with:** Flutter · Dart
 
 **Key Features:**
-- 📿 Daily Adhkar and Hadith.
-- 🕌 Prayer Times and Qibla Direction.
-- 📖 Quran-related features and Islamic content.
-- 🔔 Smart reminders and scheduled notifications.
-- 📊 Worship tracking and personal statistics.
-- 📚 Quran Khatma planning and progress tracking.
-- 🌙 Multiple themes and Arabic/English support.
-- 📱 Offline-first experience for essential features.
+- - Daily Adhkar and Hadith.
+- - Prayer Times and Qibla Direction.
+- - Quran-related features and Islamic content.
+- - Smart reminders and scheduled notifications.
+- - Worship tracking and personal statistics.
+- - Quran Khatma planning and progress tracking.
+- - Multiple themes and Arabic/English support.
+- - Offline-first experience for essential features.
 
 <p>
   <a href="https://github.com/ammaralsalahi/adkhar">
@@ -87,17 +87,17 @@ A modern Islamic mobile application designed to help users maintain their daily 
 
 ---
 
-### 💳 2. TaqsitApp — Smart Installment Platform
+### - 2. TaqsitApp — Smart Installment Platform
 
 A full-stack e-commerce and installment platform built with Flutter and Laravel.
 
 **Built with:** Flutter · Laravel · PHP · MySQL
 
 **Key Features:**
-- 📱 Customer mobile application.
-- ⚙️ Laravel backend and RESTful APIs.
-- 💳 Installment and payment workflows.
-- 🗄️ Database-driven business logic.
+- - Customer mobile application.
+- - Laravel backend and RESTful APIs.
+- - Installment and payment workflows.
+- - Database-driven business logic.
 
 <p>
   <a href="https://github.com/ammaralsalahi/taqsit-backend">
@@ -107,21 +107,21 @@ A full-stack e-commerce and installment platform built with Flutter and Laravel.
 
 ---
 
-### 🚘 3. MOTORA — Car Showroom Platform
+### - 3. MOTORA — Car Showroom Platform
 
 A modern car showroom application built with Flutter and Supabase.
 
 **Built with:** Flutter · Dart · Supabase
 
 **Key Features:**
-- 🚗 Car discovery and browsing.
-- 🏢 Dealership management.
-- ❤️ Favorites and inquiries.
-- 🌐 Arabic and English localization.
+- - Car discovery and browsing.
+- - Dealership management.
+- - Favorites and inquiries.
+- - Arabic and English localization.
 
 ---
 
-### 🛒 4. Full-Stack E-Commerce Graduation Project
+### - 4. Full-Stack E-Commerce Graduation Project
 
 A full-stack e-commerce mobile application developed as a graduation project using Flutter and Laravel.
 
@@ -135,17 +135,17 @@ A full-stack e-commerce mobile application developed as a graduation project usi
 
 ---
 
-### 📚 5. Quran & Azkar App
+### - 5. Quran & Azkar App
 
 An offline-first Islamic application focused on accessibility and a simple user experience.
 
 **Built with:** Flutter · Dart
 
 **Key Features:**
-- 📖 Quran browsing.
-- 📿 Daily Azkar.
-- 💾 Local data storage.
-- 📱 Offline accessibility.
+- - Quran browsing.
+- - Daily Azkar.
+- - Local data storage.
+- - Offline accessibility.
 
 <p>
   <a href="https://github.com/ammaralsalahi/Quran-adkar-app">
@@ -155,7 +155,7 @@ An offline-first Islamic application focused on accessibility and a simple user 
 
 ---
 
-## 📊 GitHub Analytics
+## - GitHub Analytics
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ammaralsalahi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=171717&title_color=21F1A8&icon_color=21F1A8&text_color=F0EDE4&rank_icon=github" height="180" alt="GitHub Statistics"/>
@@ -168,7 +168,7 @@ An offline-first Islamic application focused on accessibility and a simple user 
 
 ---
 
-## 🐍 Contribution Activity
+##-- Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ammaralsalahi/ammaralsalahi/output/github-snake.gif" width="100%" alt="GitHub Contribution Snake Animation"/>
@@ -176,7 +176,7 @@ An offline-first Islamic application focused on accessibility and a simple user 
 
 ---
 
-## 🤝 Let's Connect
+## - Let's Connect
 
 <p align="center">
   <a href="https://github.com/ammaralsalahi">
