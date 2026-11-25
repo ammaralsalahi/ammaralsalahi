@@ -80,7 +80,7 @@ A modern Islamic mobile application designed to help users maintain their daily 
 - - Offline-first experience for essential features.
 
 <p>
-  <a href="https://github.com/ammaralsalahi/adkhar">
+  <a href="https://github.com/ammaralsalahi/sakina-app.git">
     <img src="https://img.shields.io/badge/View_Repository-171717?style=for-the-badge&logo=github&logoColor=21F1A8" alt="Sakina Repository"/>
   </a>
 </p>
