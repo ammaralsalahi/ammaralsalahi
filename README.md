@@ -1,88 +1,157 @@
 # 👨‍💻 Ammar Yaser Alsalahi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=21F1A8&center=true&vCenter=true&width=750&lines=Flutter+Developer;Full-Stack+Mobile+Developer;Laravel+%26+PHP+Developer;Building+Scalable+Digital+Products" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=21F1A8&center=true&vCenter=true&width=750&lines=Full-Stack+Mobile+Developer;Flutter+%26+Dart+Developer;Laravel+%26+PHP+Developer;Building+Scalable+Digital+Products" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ammaralsalahi">
-    <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=21F1A8"/>
+    <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=21F1A8" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/ammar-yaser-alsalahi-1ab8bb379/">
-    <img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=21F1A8"/>
+    <img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=21F1A8" alt="LinkedIn"/>
   </a>
   <a href="mailto:ammaralsalahi321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=21F1A8"/>
+    <img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=21F1A8" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+  <b>Full-Stack Mobile Developer</b> · Flutter · Laravel · PHP
 </p>
 
 ---
 
 ## 💫 About Me
 
-I'm an IT graduate and Flutter Developer passionate about building modern, scalable, and high-performance applications.
+I'm an IT graduate and Full-Stack Mobile Developer passionate about designing and building modern, scalable, and user-friendly digital products.
 
-My main focus is cross-platform mobile development with Flutter and backend development using Laravel and PHP.
+I specialize in cross-platform mobile development using **Flutter and Dart**, alongside backend development using **Laravel and PHP**.
 
-- 📱 Building cross-platform applications with Flutter.
-- ⚙️ Developing RESTful APIs with Laravel.
-- 🗄️ Working with MySQL, Supabase and Firebase.
-- 🧩 Applying clean architecture and maintainable code.
-- 🚀 Continuously learning and building real-world projects.
+I enjoy working across the entire development lifecycle, from building intuitive mobile interfaces to designing backend systems, databases, and RESTful APIs.
+
+- 📱 Developing cross-platform mobile applications with Flutter.
+- ⚙️ Building backend systems and RESTful APIs with Laravel.
+- 🗄️ Working with MySQL, Firebase, and Supabase.
+- 🏗️ Writing clean, maintainable, and scalable code.
+- 🌍 Building applications with practical, real-world use cases.
+- 🚀 Continuously learning and improving my development skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Mobile Development
+### 📱 Mobile Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart"/>
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,supabase" alt="Backend and Database Technologies"/>
 </p>
 
-### Tools & Technologies
+### 🔧 Tools & Technologies
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,html,css,js" alt="Development Tools"/>
 </p>
 
 ---
 
-## - Featured Projects
+## 🚀 Featured Projects
 
-### 📱 TaqsitApp — Smart Installment Platform
+### 📖 1. Sakina — Islamic Lifestyle & Dhikr App
+
+A modern Islamic mobile application designed to help users maintain their daily worship and stay connected with their spiritual routines.
+
+**Built with:** Flutter · Dart
+
+**Key Features:**
+- 📿 Daily Adhkar and Hadith.
+- 🕌 Prayer Times and Qibla Direction.
+- 📖 Quran-related features and Islamic content.
+- 🔔 Smart reminders and scheduled notifications.
+- 📊 Worship tracking and personal statistics.
+- 📚 Quran Khatma planning and progress tracking.
+- 🌙 Multiple themes and Arabic/English support.
+- 📱 Offline-first experience for essential features.
+
+<p>
+  <a href="https://github.com/ammaralsalahi/adkhar">
+    <img src="https://img.shields.io/badge/View_Repository-171717?style=for-the-badge&logo=github&logoColor=21F1A8" alt="Sakina Repository"/>
+  </a>
+</p>
+
+---
+
+### 💳 2. TaqsitApp — Smart Installment Platform
 
 A full-stack e-commerce and installment platform built with Flutter and Laravel.
 
-- Customer mobile application.
-- Laravel backend and RESTful APIs.
-- Installment and payment workflows.
-- Database-driven business logic.
+**Built with:** Flutter · Laravel · PHP · MySQL
 
-[View Backend Repository](https://github.com/ammaralsalahi/taqsit-backend)
+**Key Features:**
+- 📱 Customer mobile application.
+- ⚙️ Laravel backend and RESTful APIs.
+- 💳 Installment and payment workflows.
+- 🗄️ Database-driven business logic.
 
-### 🚘 MOTORA — Car Showroom Platform
+<p>
+  <a href="https://github.com/ammaralsalahi/taqsit-backend">
+    <img src="https://img.shields.io/badge/Backend_Repository-171717?style=for-the-badge&logo=github&logoColor=21F1A8" alt="Taqsit Backend"/>
+  </a>
+</p>
+
+---
+
+### 🚘 3. MOTORA — Car Showroom Platform
 
 A modern car showroom application built with Flutter and Supabase.
 
-- Car discovery and browsing.
-- Dealership management.
-- Favorites and inquiries.
-- Arabic and English localization.
+**Built with:** Flutter · Dart · Supabase
 
-### 📖 Quran & Azkar App
+**Key Features:**
+- 🚗 Car discovery and browsing.
+- 🏢 Dealership management.
+- ❤️ Favorites and inquiries.
+- 🌐 Arabic and English localization.
 
-An offline-first Islamic application focused on accessibility and a modern user experience.
+---
 
-- Quran browsing.
-- Daily Azkar.
-- Local data storage.
-- Designed to work offline.
+### 🛒 4. Full-Stack E-Commerce Graduation Project
 
-[View Repository](https://github.com/ammaralsalahi/Quran-adkar-app)
+A full-stack e-commerce mobile application developed as a graduation project using Flutter and Laravel.
+
+**Built with:** Flutter · Laravel · PHP
+
+<p>
+  <a href="https://github.com/ammaralsalahi/final-year-project-fullstack">
+    <img src="https://img.shields.io/badge/View_Repository-171717?style=for-the-badge&logo=github&logoColor=21F1A8" alt="Graduation Project"/>
+  </a>
+</p>
+
+---
+
+### 📚 5. Quran & Azkar App
+
+An offline-first Islamic application focused on accessibility and a simple user experience.
+
+**Built with:** Flutter · Dart
+
+**Key Features:**
+- 📖 Quran browsing.
+- 📿 Daily Azkar.
+- 💾 Local data storage.
+- 📱 Offline accessibility.
+
+<p>
+  <a href="https://github.com/ammaralsalahi/Quran-adkar-app">
+    <img src="https://img.shields.io/badge/View_Repository-171717?style=for-the-badge&logo=github&logoColor=21F1A8" alt="Quran and Azkar Repository"/>
+  </a>
+</p>
 
 ---
 
@@ -99,13 +168,27 @@ An offline-first Islamic application focused on accessibility and a modern user 
 
 ---
 
-## - Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ammaralsalahi/ammaralsalahi/output/github-snake.gif" width="100%" alt="GitHub Contribution Snake Animation"/>
 </p>
 
 ---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/ammaralsalahi">
+    <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=21F1A8" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ammar-yaser-alsalahi-1ab8bb379/">
+    <img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=21F1A8" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ammaralsalahi321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=21F1A8" alt="Email"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ammaralsalahi&label=PROFILE+VIEWS&color=21F1A8&style=flat-square" alt="Profile Views"/>
